@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "christmas calc", "christmass calc\christmas calc.csproj", "{C2346B88-FC26-4B4B-96E9-22BBEC76091E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI_Chanage", "UI_Chanage\UI_Chanage.csproj", "{4E65A9A1-5E6A-426D-AD0F-31212A83EC68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2346B88-FC26-4B4B-96E9-22BBEC76091E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2346B88-FC26-4B4B-96E9-22BBEC76091E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2346B88-FC26-4B4B-96E9-22BBEC76091E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C2346B88-FC26-4B4B-96E9-22BBEC76091E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2346B88-FC26-4B4B-96E9-22BBEC76091E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2346B88-FC26-4B4B-96E9-22BBEC76091E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4E65A9A1-5E6A-426D-AD0F-31212A83EC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E65A9A1-5E6A-426D-AD0F-31212A83EC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E65A9A1-5E6A-426D-AD0F-31212A83EC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E65A9A1-5E6A-426D-AD0F-31212A83EC68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA66F464-9918-4D74-B879-5734D6D59B60}
+	EndGlobalSection
+EndGlobal
