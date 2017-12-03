@@ -65,6 +65,7 @@ namespace UI_Chanage
 
            
 
+
             RunOnUiThread(() => CurrentNumberText.Text = $"Days: {Days}");
             RunOnUiThread(() => FullEquationText.Text = $"{Hours}:{Mins}:{Secs}");
         }
